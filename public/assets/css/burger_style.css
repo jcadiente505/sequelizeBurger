@@ -1,0 +1,12 @@
+body {
+    background-color: green
+}
+
+.header {
+    text-align: center
+}
+
+ul {
+    text-align: center;
+    border: 5px solid yellow
+}
